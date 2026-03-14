@@ -1,0 +1,33 @@
+
+Soy D’Eramo Damián, estudiante de la universidad LA PUNTA – provincia de San Luis, donde allí resido también.
+Ahí he adquirido los conocimientos de un desarrollador/programador web, JAVA, administración de bases de datos, SQL, Node JS con un enfoque apasionado en crear experiencias digitales atractivas y funcionales.
+En cuanto a lenguaje Java, de manera autodidacta he realizado un curso de “Desarrollo de APIs con SpringBoot”.
+Mi objetivo principal es fusionar la estética visual con la usabilidad y la funcionalidad, creando así productos digitales que no solo sean visualmente impactantes, sino también intuitivos y fáciles de usar.
+Mi enfoque comienza con una etapa de investigación profunda, donde me sumerjo en la comprensión del cliente, su público objetivo y sus metas comerciales. Esto me permite desarrollar soluciones personalizadas que se adapten a las necesidades específicas de cada proyecto. Además, sigo las últimas tendencias y mejores prácticas del diseño web para garantizar que mis creaciones estén a la vanguardia.
+Utilizo una combinación de herramientas, tecnologías y lenguajes de programación como:
+ Java
+ Java POO
+ C#
+ HTML5
+ CSS3
+ JavaScript
+ Android Studio
+ frameworks como Bootstraps 5
+ My-SQL
+ Git y GitHub
+ Node JS
+ SpringBoot (Java)
+ ASP Net .Net Core
+Además, tengo experiencia en el diseño de sitios web optimizados para SEO, lo que ayuda a aumentar la visibilidad y el tráfico orgánico de los motores de búsqueda. También soluciones corporativas con enfoque Low-Code, Share Point, Power Automate, Power Apps.
+
+Algunas de mis habilidades específicas incluyen:
+1. Diseño de interfaces de usuario (UI) y experiencia de usuario (UX) atractivas y funcionales.
+2. Creación de diseños personalizados y únicos que reflejen la identidad y los valores de la marca.
+3. Desarrollo de sitios web responsivos y compatibles con múltiples dispositivos y navegadores.
+4. Optimización del rendimiento y velocidad de carga de los sitios web.
+5. Desarrollo de APIs con Spring Boot.
+6. Aplicaciones de escritorio y móviles (Mobile [M-V-VM]).
+7. Integración de sistemas de gestión de contenido (CMS) como WordPress.
+8. Creación de aplicaciones web y móviles.
+Mi objetivo es establecer una colaboración estrecha y transparente con mis clientes, trabajando en conjunto para lograr los resultados deseados. Si estás interesado/a en trabajar conmigo o simplemente deseas ver algunos ejemplos de mis trabajos anteriores, te invito a explorar mi portafolio en éste link: https://github.com/DDamien88?tab=repositories. Estoy disponible para discutir tus ideas y necesidades, y juntos puedo llevar tu proyecto digital al siguiente nivel.
+Damián.
